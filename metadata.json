@@ -6,7 +6,7 @@
         "Description": "A kawaii system companion for Linux",
         "Icon": "cat",
         "Category": "System Information",
-        "Version": "0.1",
+        "Version": "0.1.0",
         "License": "GPL-3.0-or-later",
         "Authors": [
             {

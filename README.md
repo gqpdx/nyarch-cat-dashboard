@@ -34,6 +34,20 @@ and hardware.
 
 ## Install from a local checkout
 
+For a tagged download, get the `.plasmoid` package from the project's
+[GitHub Releases](https://github.com/gqpdx/nyarch-cat-dashboard/releases), then
+install it for your user:
+
+```sh
+kpackagetool6 --type Plasma/Applet --install ./nyarch-cat-dashboard-v0.1.0.plasmoid
+```
+
+After installation, add **Nyarch Cat Dashboard** from Plasma's **Add Widgets**
+interface.
+
+To install directly from a source checkout instead, continue with the steps
+below.
+
 1. Install KDE Plasma 6 and Python 3 if they are not already installed.
 2. Open a terminal in the directory containing this README and `metadata.json`.
 3. Install the widget for your user:
