@@ -1,0 +1,19 @@
+
+{
+    "KPlugin": {
+        "Id": "com.nyarch.catdashboard",
+        "Name": "Nyarch Cat Dashboard",
+        "Description": "A kawaii system companion for Linux",
+        "Icon": "cat",
+        "Category": "System Information",
+        "Version": "0.1",
+        "License": "GPL-3.0-or-later",
+        "Authors": [
+            {
+                "Name": "Nyarch Cat Dashboard"
+            }
+        ]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
